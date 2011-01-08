@@ -1,0 +1,5 @@
+The core script is build_and_test_release.sh
+
+The script "auto_build_test.sh" updates all trunk/ directories,
+calls the build_and_test_release.sh script, summarizes its output
+and sends a mail with the summary, the whole log and a success/failure subject.
