@@ -1,3 +1,7 @@
+2011-04-22  Thomas Krennwallner  <tkren@kr.tuwien.ac.at>
+
+	* dlvhex-master-master.cfg: Add the xpath plugin.
+
 2011-01-09  Thomas Krennwallner  <tkren@kr.tuwien.ac.at>
 
 	* dlvhex-master-master.cfg: Add builders for the gcc-snapshot compiler.
